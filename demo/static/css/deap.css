@@ -1,0 +1,15 @@
+h2{
+    text-align: justify;
+    word-spacing:  px;
+    color: rgb(240, 243, 240);
+    line-height: 2.5;
+    text-indent: 50px;
+    text-shadow: 3px 5px 4px rgba(0,0,0,0.5)
+}
+body{
+    background-color: rgb(255, 102, 0);
+}
+img{
+    height: 200px;
+    width: 200px;
+}
